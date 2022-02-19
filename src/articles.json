@@ -1,0 +1,49 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "bbc-sport", "name": "BBC Sport" },
+      "author": "BBC Sport",
+      "title": "'I believe you can do anything in life'",
+      "description": "BBC Indian Sportswoman of the Year nominee PV Sindhu says her self-belief and passion for badminton have been key ingredients to her success.",
+      "url": "http://www.bbc.co.uk/sport/av/badminton/60196965",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/15A8D/production/_123171788_220e8da0-12ad-4ce0-86d6-fa0a34c7f869.jpg",
+      "publishedAt": "2022-02-14T07:07:34.063639Z",
+      "content": "Badminton player PV Sindhu made history by becoming the first Indian woman to win two Olympic medals.\r\nThe 26-year old, who followed her silver medal from Rio with a bronze in Tokyo, says the huge su… [+405 chars]"
+    },
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Emma Roth",
+      "title": "Google made a smart lamp that you’ll probably never be able to buy",
+      "description": "Google has created an Assistant-supported smart lamp, but it’s only available for its employees. The lamp sports a sleek white design with a cylindrical light and built-in lighting presets.",
+      "url": "https://www.theverge.com/2022/2/13/22932202/google-smart-lamp-d-light",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/GIg-HDKQysIJI_xkYij7pXxRkjE=/35x0:1565x801/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23239454/google_d_light_lamp.jpeg",
+      "publishedAt": "2022-02-13T22:51:13Z",
+      "content": "Its reserved for employees only\r\nThe dLight comes with built-in support for the Google Assistant.\r\nImage by Google via Ben Gold\r\nIf youre in the market for a Google Assistant-supported smart lamp, yo… [+1819 chars]"
+    },
+    {
+      "source": { "id": "focus", "name": "Focus" },
+      "author": "FOCUS Online",
+      "title": "Kathrin Müller-Hohenstein reagiert auf Kritik mit Humor: „Das ist nicht lila“",
+      "description": "Die erfahrene „sportstudio“-Moderatorin Katrin Müller-Hohenstein muss derzeit viel Spott über sich ergehen lassen. In einem Radio-Interview verteidigt Katrin Müller-Hollenstein nun ihr Olympia-Outfit und räumt mit einer falschen Farb-Beobachtung vieler Leute …",
+      "url": "https://www.focus.de/kultur/kino_tv/zdf-moderatorin-katrin-mueller-hohenstein-reagiert-mit-humor-auf-kritik-noch-nie-so-viele-e-mails-bekommen_id_50956960.html",
+      "urlToImage": "https://p6.focus.de/img/kultur/kino_tv/id_50956952/katrin-mueller-hohenstein-reagiert-auf-kritik-an-olympia-outfit-noch-nie-so-viele-e-mails-bekommen-.jpg?im=Crop%3D%280%2C0%2C1360%2C680%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=medium&hash=3c1e52d0cf00f5620375c19a8a1cff9d135706f08df191b982302363f79aa9d7",
+      "publishedAt": "2022-02-11T06:41:42Z",
+      "content": "Die erfahrene \"sportstudio\"-Moderatorin Katrin Müller-Hohenstein muss derzeit viel Spott über sich ergehen lassen. In einem Radio-Interview verteidigt Katrin Müller-Hollenstein nun ihr Olympia-Outfit… [+3397 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-times",
+        "name": "The Washington Times"
+      },
+      "author": "The Washington Times http://www.washingtontimes.com",
+      "title": "Latest Quizzes",
+      "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+      "url": "https://www.washingtontimes.com/quiz/",
+      "urlToImage": null,
+      "publishedAt": "2021-02-10T03:52:37.2719772Z",
+      "content": "Featured Quizzes\r\nAttention all William Shakespeare experts. Pinpoint the prose's origin plucked from one of his many famous plays in this multiple-choice challenge.\r\n Shares \r\nName these legendary c… [+32652 chars]"
+    }
+  ]
+}
